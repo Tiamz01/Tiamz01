@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ismail A. Tiamiyu</h1>
-<h3 align="center">I am a Self-taught frontend developer from Nigeria</h3>
+<h3 align="center">Data scientist and Frontend engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiamz01&label=Profile%20views&color=0e75b6&style=flat" alt="tiamz01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tiamz_is" target="blank"><img src="https://img.shields.io/twitter/follow/tiamz_is?logo=twitter&style=for-the-badge" alt="tiamz_is" /></a> </p>
 
-- 💬 Ask me about **react, JavaScript, tailwind, css3, HTML**
+- 💬 Ask me about **react, JavaScript, tailwind, css3, HTML, data science**
 
 - ⚡ Fun fact **I make sweet music**
 
